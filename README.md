@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## 2 Types of Components in React: 
+### Class based Components (this repo is based on it)
+### Function based Components
+
 ## Available Scripts
 
 In the project directory, you can run:
