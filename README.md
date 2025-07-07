@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## 2 Types of Components in React: 
-### Class based Components (this repo is based on it)
-### Function based Components
+#### > Class based Components (This Repo is based on it)
+#### > Function based Components
 
 ## Available Scripts
 
